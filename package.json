@@ -1,0 +1,25 @@
+{
+  "name": "sosmed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step needed'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fandevid/webpost.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fandevid/webpost/issues"
+  },
+  "homepage": "https://github.com/fandevid/webpost#readme",
+  "dependencies": {
+    "firebase-tools": "^15.10.0"
+  }
+}
